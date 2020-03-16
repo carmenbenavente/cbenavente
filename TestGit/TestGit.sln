@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testingGit", "testingGit\testingGit.csproj", "{9FDFB97F-7CEF-4B48-B7C4-1C817E19D31D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGit", "TestGit\TestGit.csproj", "{F1CFBD63-B92D-474A-9394-60D329B58EF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9FDFB97F-7CEF-4B48-B7C4-1C817E19D31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9FDFB97F-7CEF-4B48-B7C4-1C817E19D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9FDFB97F-7CEF-4B48-B7C4-1C817E19D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9FDFB97F-7CEF-4B48-B7C4-1C817E19D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CFBD63-B92D-474A-9394-60D329B58EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CFBD63-B92D-474A-9394-60D329B58EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CFBD63-B92D-474A-9394-60D329B58EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CFBD63-B92D-474A-9394-60D329B58EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {87B16A2E-7FDB-409E-A5C8-6506243265D5}
+		SolutionGuid = {7E3C7C1B-F0FB-4BE5-9607-F038B32A42B4}
 	EndGlobalSection
 EndGlobal
